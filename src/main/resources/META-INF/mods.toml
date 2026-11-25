@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="animebuilder"
+version="1.0.0"
+displayName="Anime Builder"
+description='''
+Чертежи аниме-построек: окно выбора, 3D-предпросмотр, предпросмотр в мире и автопостройка
+из ресурсов инвентаря и ближайших сундуков.
+'''
+
+[[dependencies.animebuilder]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.animebuilder]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

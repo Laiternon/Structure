@@ -1,0 +1,9 @@
+{
+  "item.animebuilder.blueprint": "Anime Blueprint",
+  "itemGroup.animebuilder": "Anime Builder",
+  "key.categories.animebuilder": "Anime Builder",
+  "key.animebuilder.rotate": "Rotate structure",
+  "key.animebuilder.lock": "Lock/unlock ghost",
+  "key.animebuilder.build": "Build (in preview mode)",
+  "key.animebuilder.cancel": "Cancel preview"
+}

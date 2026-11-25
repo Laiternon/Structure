@@ -1,0 +1,9 @@
+{
+  "item.animebuilder.blueprint": "Чертёж аниме-построек",
+  "itemGroup.animebuilder": "Anime Builder",
+  "key.categories.animebuilder": "Anime Builder",
+  "key.animebuilder.rotate": "Повернуть постройку",
+  "key.animebuilder.lock": "Зафиксировать/освободить призрак",
+  "key.animebuilder.build": "Построить (в режиме предпросмотра)",
+  "key.animebuilder.cancel": "Отменить предпросмотр"
+}
